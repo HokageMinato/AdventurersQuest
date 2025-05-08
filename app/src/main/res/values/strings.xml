@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotLean</string>
+    <string name="title_activity_game_screen">GameScreen</string>
+</resources>

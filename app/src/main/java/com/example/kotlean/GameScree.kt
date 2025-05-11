@@ -1,9 +1,8 @@
 package com.example.kotlean
 
+
 import android.content.Intent
-import android.graphics.drawable.BitmapDrawable
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
@@ -33,6 +32,8 @@ class GameScree : AppCompatActivity()
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
+
 
         Initialize();
     }
